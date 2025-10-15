@@ -25,3 +25,17 @@ npm start
 3) Use the app:
 - Open http://localhost:3000
 - Signup -> Login -> Inbox -> Chat with bot (__bot__@whatsease)
+
+4)Example try to chat with bot-
+
+# Simple intents
+INTENTS - 
+
+•hi/hello/hey - "Hello! I'm •whatsapp chatbot AI . How can I help you?"
+•how are you - "I'm a bot doing great!”
+•help/support - Sure - tell me what you need help with.
+•price/cost - "Prices depend on the item. Which item are you asking about?”
+•thank/b - "You're welcome!”
+•bye/goodbye - "Goodbye! Have a great day."
+
+•DEFAULT_REPLY = "Sorry, I didn't understand that. Can you rephrase?*
